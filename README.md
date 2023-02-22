@@ -1,4 +1,4 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)
+<img align="right" alt="Coding" width="400" src="https://www.canva.com/design/DAFbU1x9QQE/VPa48hQvztoaCahI2CkLkg/watch?utm_content=DAFbU1x9QQE&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink">
 
 <h1 align="center">Hi 👋, I'm Jαy Williαm</h1>
 <h3 align="center">A Frontend Developer from Philippines</h3>
