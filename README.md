@@ -9,7 +9,7 @@
 
 <h3 align="left">Connect with me:</h3>
 
-<img align="right" alt="Coding" width="400" src="https://tenor.com/view/laptop-gif-26065234">
+<img align="right" alt="Coding" width="400" src="https://www.canva.com/design/DAFbU1x9QQE/VPa48hQvztoaCahI2CkLkg/watch?utm_content=DAFbU1x9QQE&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink">
 
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/williamsapar/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/williamsapar/" height="30" width="40" /></a>
@@ -22,4 +22,3 @@
 
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/Nescafe Creamy White"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Nescafe Creamy White" /></a><a href="https://ko-fi.com/Kofiko Black"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="Kofiko Black" /></a></p><br><br>
-
