@@ -3,9 +3,9 @@
 <h1 align="center">Hi 👋, I'm Jαy Williαm</h1>
 <h3 align="center">A Frontend Developer from Philippines</h3>
 
-- 💬 Ask me about **Web Development, React, Javascript, and extraterrestrial**
+- 💬 Ask me about **Web Development, React, Javascript, and Extraterrestrial**
 
-- 📫 How to reach me **jaywilliamsapar@gmail.com**
+- 📫 How to reach me ** jaywilliamsapar@gmail.com **
 
 <h3 align="left">Connect with me:</h3>
 
