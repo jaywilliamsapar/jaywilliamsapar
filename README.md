@@ -28,4 +28,4 @@
 <a href="https://www.buymeacoffee.com/Nescafe Creamy White"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Nescafe Creamy White" /></a>
 <a href="https://ko-fi.com/Kofiko Black"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="Kopiko 3in1 Brown Coffee" /></a></p><br><br>
 
-<a href="https://www.buymeacoffee.com/Nescafe Creamy White"> <img align="left" src="https://www.canva.com/design/DAFb98lIYaY/JSx0GX-xxqLJl6C-5wCzqQ/view?utm_content=DAFb98lIYaY&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink&mode=preview" height="50" width="210" alt="Nescafe Creamy White" /></a>
+<a href="https://www.buymeacoffee.com/Nescafe Creamy White"> <img align="left" src="https://drive.google.com/file/d/1PbdyOz-c10GfvnbfLFbJdUDUbFfI5O6h/view?usp=share_link" height="50" width="210" alt="Nescafe Creamy White" /></a>
