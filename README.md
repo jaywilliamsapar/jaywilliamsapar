@@ -1,5 +1,5 @@
    <h1 align="center">Hi 👋, I'm Jαy Williαm</h1>
-   <h3 align="center">Passionate in Web development, Have  years of worked with several Front-End and Back-End technologies for web applications.
+   <h3 align="center">Passionate in Web development, Have years of worked experience with several Front-End and Back-End technologies for web applications.
    A Full Stack Developer from Philippines, I love coding and building website for small bussiness to a large corporate 🎖🔥</h3>
 
 - 💬 Ask me about **Web Development, React, Javascript, and Extraterrestrial**
