@@ -1,7 +1,7 @@
    <h1 align="center">Hi 👋, I'm Jαy Williαm</h1>
    <h3 align="center">A Frontend Developer from Philippines, I love coding and build website 🎖🔥</h3>
 
-- 💬 Ask me about **Web Development, React, Javascript, and Extraterrestrial**
+- 💬 Ask me about **Web Development, React, Javascript, and Extraterrestrial** <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/williamsapar/" height="30" width="40" />
 
 - 📫 How to reach me **jaywilliamsapar@gmail.com**
 
