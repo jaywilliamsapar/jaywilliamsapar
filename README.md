@@ -27,10 +27,10 @@
 <p>
    
    
-<br>
+
 <a href="https://www.buymeacoffee.com/Nescafe Creamy White"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Nescafe Creamy White" /></a>
    
-<a href="https://ko-fi.com/Kofiko Black"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="Kopiko 3in1 Brown Coffee" /></a></p>
-<br>
+<a href="https://ko-fi.com/Kofiko Black"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="Kopiko 3in1 Brown Coffee" /></a></p><br><br>
+
 
 
