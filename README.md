@@ -9,7 +9,6 @@
 <h3 align="left">Connect with me:</h3>
 
 
-<img align="right" alt="Coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.freecodecamp.org%2Fnews%2Fwhat-is-coding-used-for%2F&psig=AOvVaw2GNKCZBTmIN6MWzKYU7CS8&ust=1677893969738000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCOjEv6jQvv0CFQAAAAAdAAAAABAE">
 
 
 <p align="left">
