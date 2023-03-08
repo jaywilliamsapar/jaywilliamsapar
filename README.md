@@ -1,7 +1,7 @@
    <h1 align="center">Hi 👋 my name is Jαy Williαm </h1>
    <h2 align="center">Front End Web Developer </h2>
    <h2 align="center">Passionate in Web development, Have years of worked experience with several Front-End and Back-End technologies for web applications.
-   A Full Stack Developer from Philippines, I love coding and building website for small bussiness to a large corporate 🎖🔥</h2>
+   A Full Stack Developer from Philippines, I love coding and building website for small bussiness to a large corporate. 🎖🔥</h2>
 
 - 💬 Ask me about **Web Development, React, Javascript, and Extraterrestrial**
 
