@@ -40,5 +40,5 @@
    
 <a href="https://ko-fi.com/Kofiko Black"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="Kopiko 3in1 Brown Coffee" /></a></p><br><br>
 
-
+<script type='text/javascript' src='https://storage.ko-fi.com/cdn/widget/Widget_2.js'></script><script type='text/javascript'>kofiwidget2.init('Support me Duke', '#46c2b8', 'C0C2JFYVN');kofiwidget2.draw();</script> 
 
