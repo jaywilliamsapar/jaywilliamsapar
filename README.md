@@ -3,7 +3,7 @@
    <h2 align="center">Passionate in Web development, I have years of worked experience with several Front-End and Back-End technologies for web applications.
    A Full Stack Developer from Philippines, I love creating and building website for small bussiness to a large corporate. Spread knowledge 🎖🔥</h2>
 
-↬ 💬 Ask me about ||௹ Web Development, Web Design, Coding, Motivational and Extraterrestrial ௹||
+↬ 💬 Ask me about ||௹ Web Development, Web Design, Coding, Motivational and Extraterrestrial ௹ ||
 
 ↬ 📫 How to reach me ↪ jaywilliamsapar@gmail.com 
 
