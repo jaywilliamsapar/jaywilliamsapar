@@ -1,5 +1,5 @@
    <h1 align="center">Hi 👋 my name is Jαy Williαm </h1>
-   <h2 align="center">Front End Web Developer </h2>
+   <h2 align="center"> Web Developer </h2>
    
    <h2 align="center">
 I am an Web Developer who is seeking new opportunities to join a company that can help me in enhancing my skills, strengthening my knowledge and realising my potential. I am willing to explore a wide variety of opportunities that can help me gain perspective. </h2>
