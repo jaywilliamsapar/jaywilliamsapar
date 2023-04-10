@@ -1,4 +1,4 @@
-  <h1 align="center" style="color: blue;">JAY WILLIAM SAPAR</h1>
+  <h1 align="center">JAY WILLIAM SAPAR</h1>
    <h2 align="center"> Web Developer </h2>
    
    <h3 align="center">
