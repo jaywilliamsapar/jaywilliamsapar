@@ -2,7 +2,7 @@
    <h2 align="center"> Web Developer </h2>
    
    <h3 align="center">
-A career changepassionate Web developer who is seeking new opportunities to join a company that can help me in enhancing my skills, strengthening my knowledge and releasing my potential. I am willing to explore a wide variety of opportunities that can help me gain perspective. 
+A passionate Web developer who is seeking new opportunities to join a company that can help me in enhancing my skills, strengthening my knowledge and releasing my potential. I am willing to explore a wide variety of opportunities that can help me gain perspective. 
 
   Enthusiastic web developer, front end specialist with 2 years of experience in web development. Seeking to use proven web development and project management skills in a professional working environment that enables me to bring out and harness the best of my potential while meeting the organization’s goal for its future advancement..
   </h3>
