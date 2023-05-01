@@ -8,11 +8,11 @@ A passionate Web developer who is seeking new opportunities to join a company th
   </h3>
  
 
-↬ 💬 Ask me about ||| Web Development, Web Designs, Coding, Motivational and Extraterrestrial ௹ .||
+<p align="center"> ↬ 💬 Ask me about ||| Web Development, Web Designs, Coding, Motivational and Extraterrestrial ௹ .|| </p>
 
 ↬ 📫 How to reach me ↪ jaywilliamsapar@gmail.com 
 
-<h3 align="center">Connect with me;</h3>
+<h3 align="center">Connect with me !!</h3>
 
 
 <p align="left">
