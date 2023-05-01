@@ -12,7 +12,6 @@ A passionate Web developer who is seeking new opportunities to join a company th
 
 <p align="center" color="blue"> ↬ 📫 How to reach me ↪ jaywilliamsapar@gmail.com  </p>
 
-↬ 📫 How to reach me ↪ jaywilliamsapar@gmail.com 
 
 <h3 align="center">Connect with me !!</h3>
 
