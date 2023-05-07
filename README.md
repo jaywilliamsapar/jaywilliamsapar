@@ -1,7 +1,8 @@
 
 ![Design and Development](https://github.com/adriantwarog/adriantwarog/blob/master/freeCodeCamp.jpg)
+![Design and Development](https://github.com/jaywilliamsapar/jaywilliamsapar/blob/main/Jay%20william%20sapar.jpg?raw=true)
 
-  
+  https://github.com/jaywilliamsapar/jaywilliamsapar/blob/main/Jay%20william%20sapar.jpg?raw=true
 <h1 align="center">JAY WILLIAM SAPAR💚</h1>
 <h2 align="center"> Front End - Web Developer ❤ </h2>
    
