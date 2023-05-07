@@ -54,13 +54,5 @@ A passionate Web developer who is seeking new opportunities to join a company th
 
 <img src="https://github.com/adriantwarog/adriantwarog/blob/master/covid19.gif" width="512" >
 
-<p>
-<a href="https://www.buymeacoffee.com/Nescafe Creamy White"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Nescafe Creamy Whitte" /></a>
-   
-<a href="https://ko-fi.com/Kofiko Black"> <img align="center" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="Kopiko 3in1d Brown Coffee" /></a></p><br><br>
-
-<a href='[https://ko-fi.com/C0C2JFYVN](https://www.buymeacoffee.com/jaywilliamR)' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://storage.ko-fi.com/cdn/kofi2.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
-
-<script type="text/javascript" src="https://cdnjs.buymeacoffee.com/1.0.0/button.prod.min.js" data-name="bmc-button" data-slug="jaywilliamR" data-color="#5F7FFF" data-emoji="☕"  data-font="Inter" data-text="Buy me kahawaa" data-outline-color="#000000" data-font-color="#ffffff" data-coffee-color="#FFDD00" ></script>
 
 ![Design and Development](https://github.com/jaywilliamsapar/jaywilliamsapar/blob/main/Jay%20william%20sapar.jpg?raw=true)
