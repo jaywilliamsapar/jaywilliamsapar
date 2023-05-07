@@ -26,7 +26,7 @@ A passionate Web developer who is seeking new opportunities to join a company th
 
 
 <p align="left">
-     <a href="https://linkedin.com/in/https://www.linkedin.com/in/williamsapar/" target="blank"><img align="center"       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/williamsapar/" height="30" width="40" />
+     <a href="[https://linkedin.com/in/https://www.linkedin.com/in/williamsapar/]" target="blank"><img align="center"       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/williamsapar/" height="30" width="40" />
       </a>
       <a href="https://stackoverflow.com/users/https://stackoverflow.com/users/16074340/jay-william-sapar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/16074340/jay-william-sapar" height="30" width="40" />
        </a>
