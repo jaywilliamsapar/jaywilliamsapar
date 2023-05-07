@@ -47,13 +47,8 @@ A passionate Web developer who is seeking new opportunities to join a company th
    <a href="https://unrealengine.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg" alt="unreal" width="40" height="40"/> </a> 
    <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> </p>
 
+
 <h3 align="left">Supports:</h3>
-
-<img src="https://github.com/adriantwarog/adriantwarog/blob/master/covid19.gif" width="512" >
-
-
-(img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/116207...")
-(img align="right" alt="Coding" width="400" src="https://nypost.com/wp-content/uploads/sites/2/2019/12/keanu-13.gif")
 
 [![MasterHead](https://nypost.com/wp-content/uploads/sites/2/2019/12/keanu-13.gif)
 [![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)
