@@ -1,5 +1,3 @@
-
-![Design and Development](https://github.com/adriantwarog/adriantwarog/blob/master/freeCodeCamp.jpg)
 ![Design and Development](https://github.com/jaywilliamsapar/jaywilliamsapar/blob/main/Jay%20william%20sapar.jpg?raw=true)
 
   https://github.com/jaywilliamsapar/jaywilliamsapar/blob/main/Jay%20william%20sapar.jpg?raw=true
