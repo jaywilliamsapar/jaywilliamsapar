@@ -1,10 +1,7 @@
 
 ![Design and Development](https://github.com/jaywilliamsapar/jaywilliamsapar/blob/main/GH-profile.jpg)
 
-
-
-<h1 align="center">JAY WILLIAM SAPAR💚</h1>
-<h2 align="center"> Front End - Web Developer ❤ </h2>
+<h2 align="center"> Web Developer ❤ </h2>
    
    
 <h3 align="center">
