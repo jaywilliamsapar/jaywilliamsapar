@@ -1,29 +1,36 @@
-  [![MasterHead]([https://www.canva.com/design/DAFiLKaOfrg/watch](https://www.canva.com/design/DAFiLKaOfrg/watch?utm_content=DAFiLKaOfrg&utm_campaign=share_your_design&utm_medium=link&utm_source=shareyourdesignpanel))
-(img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/116207...")
+
+
 
   
-  <h1 align="center">JAY WILLIAM SAPAR💚</h1>
-   <h2 align="center"> Front End - Web Developer ❤ </h2>
+<h1 align="center">JAY WILLIAM SAPAR💚</h1>
+<h2 align="center"> Front End - Web Developer ❤ </h2>
    
-   <h3 align="center">
+   
+<h3 align="center">
 A passionate Web developer who is seeking new opportunities to join a company that can help me in enhancing my skills, strengthening my knowledge and releasing my potential. I am willing to explore a wide variety of opportunities that can help me gain perspective. 
 
   Enthusiastic web developer, front end specialist with 2 years of experience in web development. Seeking to use proven web development and project management skills in a professional working environment that enables me to bring out and harness the best of my potential while meeting the organization’s goal for its future advancement..
-  </h3>
+</h3>
  
 
-<p align="center"> ↬ 💬 Ask me about ||| Web Development, Web Designs, Coding, Motivational and Extraterrestrial ௹ .|| </p>
+<p align="center">
+  ↬ 💬 Ask me about ||| Web Development, Web Designs, Coding, Motivational and Extraterrestrial ௹ .|| 
+</p>
 
-<p align="center" color="blue"> ↬ 📫 How to reach me ↪ jaywilliamsapar@gmail.com  </p>
+<p align="center" color="blue"> 
+  ↬ 📫 How to reach me ↪ jaywilliamsapar@gmail.com 
+</p>
 
 
 <h3 align="center">Connect with me !!</h3>
 
 
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/williamsapar/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/williamsapar/" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/https://stackoverflow.com/users/16074340/jay-william-sapar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/16074340/jay-william-sapar" height="30" width="40" /></a>
-<a href="https://www.behance.net/https://www.canva.com/" target="blank">
+     <a href="https://linkedin.com/in/https://www.linkedin.com/in/williamsapar/" target="blank"><img align="center"       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/williamsapar/" height="30" width="40" />
+      </a>
+      <a href="https://stackoverflow.com/users/https://stackoverflow.com/users/16074340/jay-william-sapar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/16074340/jay-william-sapar" height="30" width="40" />
+       </a>
+      <a href="https://www.behance.net/https://www.canva.com/" target="blank">
 </p>
   
 
