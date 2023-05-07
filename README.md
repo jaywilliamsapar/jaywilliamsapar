@@ -1,7 +1,7 @@
 
 ![Design and Development](https://github.com/jaywilliamsapar/jaywilliamsapar/blob/main/GH-profile.jpg)
 
-![Design and Development](https://github.com/jaywilliamsapar/jaywilliamsapar/blob/main/Jay%20william%20sapar.jpg?raw=true)
+
 
 <h1 align="center">JAY WILLIAM SAPAR💚</h1>
 <h2 align="center"> Front End - Web Developer ❤ </h2>
@@ -63,3 +63,4 @@ A passionate Web developer who is seeking new opportunities to join a company th
 
 <script type="text/javascript" src="https://cdnjs.buymeacoffee.com/1.0.0/button.prod.min.js" data-name="bmc-button" data-slug="jaywilliamR" data-color="#5F7FFF" data-emoji="☕"  data-font="Inter" data-text="Buy me kahawaa" data-outline-color="#000000" data-font-color="#ffffff" data-coffee-color="#FFDD00" ></script>
 
+![Design and Development](https://github.com/jaywilliamsapar/jaywilliamsapar/blob/main/Jay%20william%20sapar.jpg?raw=true)
