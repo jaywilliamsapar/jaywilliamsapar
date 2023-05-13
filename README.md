@@ -1,7 +1,7 @@
 
 ![Design and Development](https://github.com/jaywilliamsapar/jaywilliamsapar/blob/main/GH-profile.jpg)
 
-<h2 align="center"> Web Developer ❤ </h2>
+<h2 align="center"> Front-End React Developer ❤ </h2>
    
    
 <h3 align="center">
