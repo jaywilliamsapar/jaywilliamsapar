@@ -12,7 +12,7 @@ A passionate Web developer who is seeking new opportunities to join a company th
  
 
 <p align="center">
-  ↬ 💬 Ask me about ||| Web Development, Web Designs, Coding, Motivational and Extraterrestrial ௹ .|| 
+  ↬ 💬 Ask me about || Web Development, Web Designs, Coding, Motivational and Extraterrestrial ௹ .|| 
 </p>
 
 <p align="center" color="blue"> 
