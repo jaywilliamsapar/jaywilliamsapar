@@ -1,0 +1,251 @@
+<!DOCTYPE html><html lang="en"><head><script>
+              var cordova = {
+                require() {
+                  return {
+                    nativeCallback() {}
+                  }
+                }
+              }
+              function broadcastRenderComplete() {
+                if (typeof window.webkit === 'object' &&
+                    typeof window.webkit.messageHandlers === 'object' &&
+                    typeof window.webkit.messageHandlers.cordova === 'object' &&
+                    typeof window.webkit.messageHandlers.cordova.postMessage === 'function') {
+                  window.webkit.messageHandlers.cordova.postMessage(["", "AppHost", "broadcastRenderComplete", ["%7B%7D"]]);
+                }
+              }
+              window.onload = broadcastRenderComplete;
+              </script><title>Amazingly Simple Graphic Design Software – Canva</title><meta charset="utf-8"><meta name="viewport" content="maximum-scale=1.0, width=500"><link rel="shortcut icon" href="https://static.canva.com/static/images/favicon-1.ico"><link rel="apple-touch-icon" sizes="152x152" href="https://static.canva.com/static/images/apple-touch-152x152-1.png"><link rel="apple-touch-icon" sizes="144x144" href="https://static.canva.com/static/images/apple-touch-144x144-1.png"><link rel="apple-touch-icon" sizes="120x120" href="https://static.canva.com/static/images/apple-touch-120x120-1.png"><link rel="apple-touch-icon" sizes="114x114" href="https://static.canva.com/static/images/apple-touch-114x114-1.png" /><link rel="apple-touch-icon" sizes="76x76" href="https://static.canva.com/static/images/apple-touch-76x76-1.png"><link rel="apple-touch-icon" sizes="72x72" href="https://static.canva.com/static/images/apple-touch-72x72-1.png"><link rel="apple-touch-icon" href="https://static.canva.com/static/images/apple-touch-1.png"><meta property="fb:app_id" content="null"><meta property="og:site_name" content="Canva"><meta name="twitter:domain" content="canva.com"><meta name="twitter:site" content="@canva"><meta name="apple-itunes-app" content="app-id=897446215"><meta name="robots" content="noindex,nofollow,noarchive"><meta name="description" content="Amazingly Simple Graphic Design Software – Canva"><meta property="og:type" content="website"><meta property="og:title" content=""><meta property="og:description" content="Amazingly Simple Graphic Design Software – Canva"><meta property="og:image" content="https://static.canva.com/static/images/fb_cover-1.jpg"><meta name="twitter:card" content="summary"><meta name="twitter:title" content=""><meta name="twitter:description" content="Amazingly Simple Graphic Design Software – Canva"><meta name="apple-mobile-web-app-capable" content="yes"><style>
+                html {
+                    height: 100%;
+                }
+
+                body, h1, h2, h3, h4, h5, h6, li, p, ul {
+                    margin: 0;
+                    border: 0;
+                    padding: 0;
+                }
+
+                body {
+                    background-color: #FFFFFF;
+                    color: #3F4652;
+                    line-height: 1.4;
+                    font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+                    font-size: 90%;
+                    text-align: left;
+                    min-height: 100%;
+                    min-width: 100%;
+                    height: 100%;
+                }
+
+                img {
+                    border: 0;
+                }
+
+                @media screen and (max-width: 960px) {
+                    html {
+                        -webkit-text-size-adjust: none;
+                    }
+                }
+
+                .unsupported__outerContainer {
+                    height: 100%;
+                    width: 100%;
+                }
+
+                .unsupported__desktopContainer {
+                    text-align: center;
+                    margin: 14px 34px;
+                    background: #7D2AE8;
+                    border-radius: 4px;
+                    overflow: hidden;
+                }
+
+                .unsupported__desktopContent {
+                    margin-top: 24px;
+                    padding: 24px;
+                    text-align: center;
+                    color: #FFFFFF;
+                }
+
+                .unsupported__desktopContent h1 {
+                    font-weight: 600;
+                    font-size: 32px;
+                    line-height: 1.3;
+                    letter-spacing: -0.5px;
+                }
+
+                .unsupported__desktopContent h2 {
+                    font-weight: 400;
+                    font-size: 16px;
+                    line-height: 1.6;
+                }
+
+                .unsupported__desktopDownloadOuterContainer {
+                    overflow: hidden;
+                    margin-bottom: 16px;
+                }
+
+                .unsupported__desktopDownloadContainer {
+                    position: relative;
+                    float: left;
+                    top: 50%;
+                    left: 50%;
+                }
+
+                .unsupported__desktopDownloadList {
+                    position: relative;
+                    top: -50%;
+                    left: -50%;
+                    text-align: center;
+                    list-style: none;
+                }
+
+                .unsupported__desktopDownloadList:after {
+                    content: "";
+                    display: table;
+                    clear: both;
+                }
+
+                .unsupported__desktopDownloadListItem {
+                    text-align: center;
+                    float: left;
+                    margin: 8px;
+                }
+
+                .unsupported__desktopDownloadButtonContainer {
+                    display: inline-block;
+                    background: #FFFFFF;
+                    border-radius: 4px;
+                    padding: 9px 26px;
+                    border: 0;
+                }
+
+                .unsupported__desktopDownloadButtonImg {
+                    vertical-align: middle;
+                    margin: 0 8px;
+                }
+
+                .unsupported__desktopDownloadButtonLabel {
+                    font-weight: 600;
+                    font-size: 14px;
+                }
+
+                .unsupported__desktopImgContainer {
+                    width: 100%;
+                    position: relative;
+                    bottom: 0;
+                    left: 50%;
+                    float: left;
+                }
+
+                .unsupported__desktopImgContainer img {
+                    position: relative;
+                    left: -50%;
+                    vertical-align: bottom;
+                    border-radius: 8px 8px 0 0;
+                }
+
+                .unsupported__desktopImg {
+                      width: 50%;
+                      max-width: 100%;
+                }
+
+                .unsupported__browserContainer {
+                    padding: 24px;
+                    text-align: center;
+                    overflow: hidden;
+                }
+
+                .unsupported__browserContainer p {
+                    color: #0E1318;
+                    font-weight: 600;
+                    font-size: 12px;
+                    letter-spacing: 1px;
+                }
+
+                .unsupported__browserListContainer {
+                    position: relative;
+                    top: 50%;
+                    left: 50%;
+                    float: left;
+                }
+
+                .unsupported__browserItemList {
+                    position: relative;
+                    top: -50%;
+                    left: -50%;
+                    list-style: none;
+                    padding-top: 16px
+                }
+
+                .unsupported__browserItemList:after {
+                    content: "";
+                    display: table;
+                    clear: both;
+                }
+
+                .unsupported__browserItem {
+                    float: left;
+                    padding: 8px;
+                    width: 100px;
+                    height: 200px;
+                }
+
+                .unsupported__browserItemImgContainer {
+                    padding: 24px;
+                    background-color: #F2F3F5;
+                    border: 1px solid #40576d12;
+                    border-radius: 8px;
+                }
+
+                .unsupported__browserItemText {
+                    padding: 8px;
+                    font-weight: 600;
+                }
+
+                .unsupported__footerContainer {
+                    text-align: center;
+                    padding: 24px;
+                }
+
+                .unsupported__browserItemLabel,
+                .unsupported__browserItemLabel:visited {
+                    color: #4c4c4c;
+                    text-decoration: none;
+                }
+
+                a.unsupported__linkItem,
+                a.unsupported__linkItem:visited,
+                a.unsupported__linkItem:hover {
+                    color: #0E1318;
+                    font-size: 12px;
+                    margin: 0 auto;
+                    font-weight: 400;
+                    text-decoration: none;
+                }
+                </style><script>
+                (function() {
+                var gaid = 'UA-37190734-9';
+                    (function(i, s, o, g, r, a, m) {
+                        i['GoogleAnalyticsObject'] = r;
+                        i[r] = i[r] || function() {
+                            (i[r].q = i[r].q || []).push(arguments)
+                        }, i[r].l = 1 * new Date();
+                        a = s.createElement(o),
+                                m = s.getElementsByTagName(o)[0];
+                        a.async = 1;
+                        a.src = g;
+                        m.parentNode.insertBefore(a, m)
+                    })(window, document, 'script', 'https://www.google-analytics.com/analytics.js', 'ga');
+                    ga('create', gaid, 'auto');
+                    ga('send', 'pageview');
+                    ga('send', {
+                        hitType: 'event',
+                        eventCategory: 'UnsupportedPage',
+                        eventAction: 'view'
+                    });
+                
+                })()
+                </script></head><body><div class="unsupported__outerContainer"><div class="unsupported__desktopContainer"><div class="unsupported__desktopContent"><h1>This browser is unsupported, download the desktop client</h1><br><p>You are using an old version or a browser that we do not support. To continue using Canva, please download the desktop client</p></div><div class="unsupported__desktopDownloadOuterContainer"><div class="unsupported__desktopDownloadContainer"><ul class="unsupported__desktopDownloadList"><li class="unsupported__desktopDownloadListItem"><a href="/download/windows/canva-desktop/" class="unsupported__linkItem"><span class="unsupported__desktopDownloadButtonContainer"><img class="unsupported__desktopDownloadButtonImg" src="https://static.canva.com/static/images/icon_download.png" width="25px" height="25px"><span class="unsupported__desktopDownloadButtonLabel">Download for Windows 10 or later</span></span></a></li></ul></div></div><div class="unsupported__desktopImgContainer"><img class="unsupported__desktopImg" src="https://static.canva.com/static/images/desktop_app/desktop-windows-global.jpg"></div></div><div class="unsupported__browserContainer"><p>Or upgrade to the latest version of any of the following browsers</p><div class="unsupported__browserListContainer"><ul class="unsupported__browserItemList"><li class="unsupported__browserItem"><a href="https://www.google.com/chrome/" class="unsupported__browserItemLabel"><div class="unsupported__browserItemImgContainer"><img src="https://static.canva.com/static/images/supported_browsers/chrome.png" width="50px" height="50px"></div><div class="unsupported__browserItemText">Chrome</div></a></li><li class="unsupported__browserItem"><a href="https://www.firefox.com" class="unsupported__browserItemLabel"><div class="unsupported__browserItemImgContainer"><img src="https://static.canva.com/static/images/supported_browsers/firefox.png" width="50px" height="50px"></div><div class="unsupported__browserItemText">Firefox</div></a></li><li class="unsupported__browserItem"><a href="https://www.apple.com/safari/" class="unsupported__browserItemLabel"><div class="unsupported__browserItemImgContainer"><img src="https://static.canva.com/static/images/supported_browsers/safari.png" width="50px" height="50px"></div><div class="unsupported__browserItemText">Safari<br>(macOS only)</div></a></li><li class="unsupported__browserItem"><a href="https://www.microsoft.com/windows/microsoft-edge/" class="unsupported__browserItemLabel"><div class="unsupported__browserItemImgContainer"><img src="https://static.canva.com/static/images/supported_browsers/edge.2020.png" width="50px" height="50px"></div><div class="unsupported__browserItemText">Edge</div></a></li></ul></div></div><div class="unsupported__footerContainer"><a href="/app/" class="unsupported__linkItem">Alternatively click here to get Canva for Android or iOS.</a>&nbsp;<a href="/about/" class="unsupported__linkItem">Or click here to learn more about Canva.</a></div></div><script>(function(){var js = "window['__CF$cv$params']={r:'7c5dcc4f2a0c4839',m:'f_RqO_2m8LTd4AaM3o8z1ji7uvKVw.qoyN52t7oyVQ8-1683843509-0-AVfBxs4LYj92FPITqWnJWEu3NdhhrZrboGDRscmM9W5n',u:'/cdn-cgi/challenge-platform/h/b'};_cpo=document.createElement('script');_cpo.nonce='',_cpo.src='/cdn-cgi/challenge-platform/scripts/invisible.js',document.getElementsByTagName('head')[0].appendChild(_cpo);";var _0xh = document.createElement('iframe');_0xh.height = 1;_0xh.width = 1;_0xh.style.position = 'absolute';_0xh.style.top = 0;_0xh.style.left = 0;_0xh.style.border = 'none';_0xh.style.visibility = 'hidden';document.body.appendChild(_0xh);function handler() {var _0xi = _0xh.contentDocument || _0xh.contentWindow.document;if (_0xi) {var _0xj = _0xi.createElement('script');_0xj.nonce = '';_0xj.innerHTML = js;_0xi.getElementsByTagName('head')[0].appendChild(_0xj);}}if (document.readyState !== 'loading') {handler();} else if (window.addEventListener) {document.addEventListener('DOMContentLoaded', handler);} else {var prev = document.onreadystatechange || function () {};document.onreadystatechange = function (e) {prev(e);if (document.readyState !== 'loading') {document.onreadystatechange = prev;handler();}};}})();</script><script defer src="https://static.cloudflareinsights.com/beacon.min.js/v52afc6f149f6479b8c77fa569edb01181681764108816" integrity="sha512-jGCTpDpBAYDGNYR5ztKt4BQPGef1P0giN6ZGVUi835kFF88FOmmn8jBQWNgrNd8g/Yu421NdgWhwQoaOPFflDw==" data-cf-beacon='{"rayId":"7c5dcc4f2a0c4839","token":"ef88e2b2e2894e859fa7553dc8d0441c","version":"2023.4.0","si":100}' crossorigin="anonymous"></script>
+</body></html>
