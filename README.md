@@ -65,8 +65,8 @@ Enthusiastic web developer, front end specialist with 2 years of experience in w
       </a> 
 </p>
 
-<h3 align="left">Supports:</h3>
+<h2 align="center">Personal Projects || Demo Link ⚙</h2>
 
-[![MasterHead](https://nypost.com/wp-content/uploads/sites/2/2019/12/keanu-13.gif)
+![MasterHead](https://nypost.com/wp-content/uploads/sites/2/2019/12/keanu-13.gif)
 
 ![Design and Development](<https://raw.githubusercontent.com/jaywilliamsapar/jaywilliamsapar/main/Jay%20william%20Sapar%20(3).gif>)
