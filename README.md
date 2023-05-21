@@ -1,4 +1,4 @@
-![Design and Development](<https://raw.githubusercontent.com/jaywilliamsapar/jaywilliamsapar/main/GH-profile%20(3).gif>)
+![Design and Development](<https://github.com/jaywilliamsapar/jaywilliamsapar/blob/main/gifs-folder/GH-profile%20(1).gif>)
 
 <h2 align="center"> Front-End React Developer ❤ </h2>
    
@@ -74,4 +74,4 @@ Enthusiastic web developer, front end specialist with 2 years of experience in w
 
 ![MasterHead](https://nypost.com/wp-content/uploads/sites/2/2019/12/keanu-13.gif)
 
-![Design and Development](<https://raw.githubusercontent.com/jaywilliamsapar/jaywilliamsapar/main/Jay%20william%20Sapar%20(3).gif>)
+![Design and Development](<https://github.com/jaywilliamsapar/jaywilliamsapar/blob/main/gifs-folder/Jay%20william%20Sapar%20(3).gif>)
