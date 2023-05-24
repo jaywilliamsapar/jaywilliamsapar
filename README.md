@@ -1,4 +1,5 @@
 ![Design and Development](<https://github.com/jaywilliamsapar/jaywilliamsapar/blob/main/gifs-folder/GH-profile%20(1).gif>)
+![Design and Development](<https://github.com/jaywilliamsapar/jaywilliamsapar/blob/main/gifs-folder/GH-profile%20(3).gif>)
 
 <h2 align="center"> Front-End React Developer ❤ </h2>
    
