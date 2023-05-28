@@ -65,9 +65,8 @@ Enthusiastic web developer, front end specialist with 2 years of experience in w
 <h2 align="center">Personal Projects || Demo Link ⚙</h2>
  
 
-  ### View Demo: [documentation](https://designer-watch-v1.netlify.app/).
-
-  ### View Demo: https://kingdom-mediaval-warefare.netlify.app/
+  ### View Demo: [Designer Watch](https://designer-watch-v1.netlify.app/).
+  ### View Demo: [Kingdom Warfare](https://kingdom-mediaval-warefare.netlify.app/).
   
 
 ![MasterHead](https://nypost.com/wp-content/uploads/sites/2/2019/12/keanu-13.gif)
