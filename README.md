@@ -72,3 +72,7 @@ Enthusiastic web developer, front end specialist with 2 years of experience in w
 ![MasterHead](https://nypost.com/wp-content/uploads/sites/2/2019/12/keanu-13.gif)
 
 ![Design and Development](<https://github.com/jaywilliamsapar/jaywilliamsapar/blob/main/gifs-folder/Jay%20william%20Sapar%20(3).gif>)
+
+
+Global One Industrial Technologies Inc
+
