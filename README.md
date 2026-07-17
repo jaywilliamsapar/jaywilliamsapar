@@ -76,3 +76,6 @@ Enthusiastic web developer, front end specialist with 2 years of experience in w
 
 Global One Industrial Technologies Inc
 
+<h2 align="center">Personal Projects || Demo Link ⚙</h2>
+<h2 align="center">Personal Projects || Demo Link ⚙</h2>
+
